@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neerajdixon1996/devops.git"
+    "url": "git+https://github.com/neerajdixon1996/devops.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niya-varghese/calc/issues"
+    "url": "https://github.com/neerajdixon1996/devops/issues"
   },
-  "homepage": "https://github.com/niya-varghese/calc#readme",
+  "homepage": "https://github.com/neerajdixon1996/devops#readme",
   "dependencies": {
     "express": "^4.16.3"
   },
